@@ -8,3 +8,4 @@ enable :method_override
 get '/' do
   'Hello world!'
 end
+
